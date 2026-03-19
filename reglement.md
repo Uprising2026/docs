@@ -229,24 +229,15 @@ Afin de conserver des courses-poursuites intéressantes, il est admis d'utiliser
 
 ### 12.1
 
-À la suite d'un coma, vous devez attendre au minimum une heure avant de retenter une activité susceptible de mettre votre vie en danger, comme un braquage ou une attaque de QG. Vous êtes autorisé à vous défendre uniquement si un rival s'en prend à vous.
-
-> **Note importante**
->
-> Cette règle ne s'applique pas aux forces de l'ordre, qui doivent continuer d'intervenir sur les différents conflits.
+Il est interdit de déplacer le corps d'une personne inconsciente pour le cacher ou le jeter dans l'eau afin de l'empêcher d'obtenir des soins. Il est au contraire encouragé de déplacer un corps vers un endroit visible si cela permet de faciliter l'intervention des secours.
 
 ### 12.2
 
-Il est interdit de déplacer le corps d'une personne inconsciente pour le cacher ou le jeter dans l'eau afin de l'empêcher d'obtenir des soins. Il est au contraire encouragé de déplacer un corps vers un endroit visible si cela permet de faciliter l'intervention des secours.
-
-### 12.3
-
-Lorsque vous êtes dans le coma, il est interdit de parler, de transmettre des informations ou de donner des objets à qui que ce soit.
+Lorsque vous êtes dans le coma, il est interdit de parler, de transmettre des informations ou de donner des objets à qui que ce soit. 
 
 ## 13. Entreprise
 
 ### 13.1
-
 Les gestionnaires d'entreprises sont déterminés par l'administration. Pour acquérir une entreprise, vous devez ouvrir un ticket et fournir un Google Doc motivant votre candidature.
 
 ### 13.2
@@ -283,7 +274,7 @@ Les organisations officielles sont décidées par vote au sein de l'équipe. Vou
 
 ### 14.3
 
-Les organisations officielles peuvent compter au maximum quinze membres. Le responsable doit choisir et encadrer ses membres pour garantir le respect des règles. Si plusieurs membres commettent des actions majeures jugées inappropriées, l'organisation peut être suspendue pour une durée indéterminée.
+Les organisations officielles peuvent compter au maximum 15 membres. Le responsable doit choisir et encadrer ses membres pour garantir le respect des règles. Si plusieurs membres commettent des actions majeures jugées inappropriées, l'organisation peut être suspendue pour une durée indéterminée.
 
 ### 14.4
 
@@ -369,7 +360,9 @@ L'administration devra ensuite prendre le joueur visé en soutien afin de lui ex
 
 | 1ère sanction | 2ème sanction | 3ème sanction | 4ème sanction | 5ème sanction | 6ème sanction | 7ème sanction |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 jour | 2 jours | 3 jours | 7 jours | 14 jours | 30 jours | 90 jours |
+| À venir | À venir | À venir | À venir | À venir | À venir | À venir |
+
+Note: Nous étudions la possibilité de jailrp.
 
 ### 18.1
 
