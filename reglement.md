@@ -1,6 +1,6 @@
 # Reglement
 
-Les regles regissent ce que vous pouvez et ne pouvez pas faire sur Uprising. Elles protegent la qualite du roleplay, la lisibilite des scenes et l'equilibre general du serveur.
+Les regles regissent ce que vous pouvez et ne pouvez pas faire sur Uprising. Elles protegent la qualite du roleplay, la viabilité des scenes et l'equilibre general du serveur.
 
 > **Avertissement**
 >
@@ -134,71 +134,58 @@ Il est interdit pour un policier de chercher délibérément des points de drogu
 
 ### 5.8
 
-Il est interdit de streamer l'emplacement des points de drogues ou de tout autre point criminel.
+Le tir à vue est interdit. Une scène doit toujours être priorisée, sauf dans les zones prévue à cette effet.
 
 ### 5.9
 
-Le tir à vue est interdit. Une scène doit toujours être priorisée, sauf sur la plateforme pétrolière, l'Oil Rig.
+Le drive-by est interdit.
 
 ### 5.10
 
-Le drive-by est autorisé uniquement sur l'Oil Rig afin de donner une chance aux attaquants.
+Il est interdit d'être en possession d'armes policières. Conformément au règlement 5.3, vous pouvez demander à un policier de déposer ses armes au sol pendant la scène, mais vous n'êtes pas autorisé à les ramasser.
 
 ### 5.11
 
-Il est interdit d'être en possession d'armes policières. Conformément au règlement 5.3, vous pouvez demander à un policier de déposer ses armes au sol pendant la scène, mais vous n'êtes pas autorisé à les ramasser.
+Il est strictement interdit d'être AFK sur un point chaud ou pendant un acte criminel.
 
 ### 5.12
 
-Il est strictement interdit d'être AFK sur un point chaud ou pendant un acte criminel.
+Les raids de QG doivent être espacés d'au moins deux heures entre chaque attaque. Un tir de sommation est obligatoire avant de lancer l'assaut sur le QG adverse. L'administration se réserve le droit de vous sanctionner si de l'abus est constaté.
 
 ### 5.13
 
-Les raids de QG doivent être espacés d'au moins deux heures entre chaque attaque. Un tir de sommation est obligatoire avant de lancer l'assaut sur le QG adverse.
-
-### 5.14
-
-À la suite d'une guerre de gangs, une trêve obligatoire de deux semaines doit être respectée.
+Il est interdit de monter sur un toit dans le but d'ouvrir le feu sur un individu. 
 
 ## 06. Corruption
 
 ### 6.1
 
-La corruption mineure est acceptée sur le serveur. Certaines formes de corruption peuvent exister, mais elles doivent rester dans les limites fixées par l'administration.
-
-### Corruption acceptée au sein de la police
-
-- Donner des informations sur un dossier criminel
-- Donner une plaque d'immatriculation
-- Donner une adresse
+La corruption est refusé sur le serveur.
 
 ### Corruption refusée
 
-- Ne pas fouiller ou ne pas saisir des criminels sur une scène où la police intervient
-- Prendre des objets dans les saisies afin de les donner ou les vendre à autrui
-
-> **Note importante**
->
-> Le but est simple : pour qu'un serveur fonctionne, il doit y avoir des policiers droits. Trop de corruption transforme les forces de l'ordre en gang de police. L'administration se réserve le droit d'intervenir dès qu'elle estime que la corruption va au-delà de ce qui est permis.
+- Ne pas fouiller ou ne pas saisir des criminels sur une scène où la police intervient.
+- Prendre des objets dans les saisies afin de les donner ou les vendre à autrui.
+- Autre situation jugée par l'administation étant nuisible.
 
 ## 07. Braquages
 
 ### 7.1
 
-Afin de garder un certain fair-play, un nombre maximum de criminels et de policiers a été fixé pour chaque type de braquage.
+Afin de garder un certain fair-play, un nombre maximum de crimine ls et de policiers a été fixé pour chaque type de braquage.
 
 ### Effectifs maximums autorisés par braquage
 
-| Braquage | Criminels | Policiers | Otage(s) |
+| Braquage | Criminels | Policiers | Unité de patrouille | Otage(s) |
 | --- | --- | --- | --- |
-| Dépanneur | 3 | 6 | Non requis |
-| Bijouterie | 6 | 8 | 1 |
-| Banque Fleeca | 6 | 8 | 1 |
-| Banque Bay City | 6 | 8 | 1 |
-| Braquage de Brinks | 8 | 8 | Interdit / Tir à vue |
-| Banque Paleto | 8 | 10 | 1 |
-| Banque Pacifique | 12 | 14 | 2 |
-| Autre braquage | 12 | 12 | Non requis |
+| Dépanneur | 2 | 4 | 2 | Non requis |
+| Bijouterie | 6 | 8 | 4 |1 |
+| Braquage Galerie d'art | 6 | 8 | 4 | 1 |
+| Banque Fleeca | 6 | 8 | 4 | 1 |
+| Braquage de Bobcat | 8 | 8 | N/A | Interdit / Tir à vue |
+| Banque Paleto | 8 | 10 | 5 | 2 |
+| Banque Pacifique | 12 | 14 | 7 | 3 |
+| Autre braquage | 12 | 12 | 6 | 1 |
 
 ### 7.2
 
@@ -222,33 +209,19 @@ Lors d'une descente avec mandat visant une propriété, la police peut utiliser 
 
 ### 9.1
 
-Pour attaquer le quartier général d'un groupe adverse, vous devez être au minimum cinq joueurs appartenant à votre organisation criminelle. Le non-respect de ce minimum sera considéré comme du no life matter.
-
-## 10. Alliance entre gangs
-
-### 10.1
-
-Les alliances entre gangs sont strictement interdites.
-
-### 10.2
-
-Les alliances entre gangs, ainsi qu'entre gang et civil, sont interdites. La seule exception concerne certains braquages, à condition de respecter le nombre maximal de joueurs autorisés sur la scène. Les alliances sur le porte-avions sont interdites.
+Pour attaquer le quartier général d'un groupe adverse, vous devez être au minimum sept joueurs appartenant à votre organisation criminelle. Vous devez également avoir une bonne raison RP. Le non-respect de ce minimum sera considéré comme du no life matter.
 
 ## 11. Conduite de véhicule
 
 ### 11.1
 
-Après un accident majeur en véhicule, il est interdit de sortir puis de partir en courant. Dans une telle situation, vous devez jouer la douleur et les conséquences du choc, que vous soyez criminel ou policier. Utilisez votre fair-play pour bien terminer la scène et accepter la défaite si la poursuite est terminée.
+La manœuvre de pit est autorisée uniquement sur un véhicule de catégorie équivalente ou inférieure au vôtre. Il est recommandé de privilégier les camions ou les vans pour ces manœuvres de déstabilisation.
 
 ### 11.2
 
-La manœuvre de pit est autorisée uniquement sur un véhicule de catégorie équivalente ou inférieure au vôtre. Il est recommandé de privilégier les camions ou les vans pour ces manœuvres de déstabilisation.
-
-### 11.3
-
 Le derby de démolition n'est pas autorisé. Percuter volontairement plusieurs fois des véhicules sans réelle manœuvre sera considéré comme du fail RP.
 
-### 11.4
+### 11.3
 
 Afin de conserver des courses-poursuites intéressantes, il est admis d'utiliser la mécanique de jeu, y compris le hors route, peu importe la voiture. En revanche, en cas d'accident majeur, vous devez simuler vos blessures et accepter que la poursuite soit terminée.
 
