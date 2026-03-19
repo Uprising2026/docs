@@ -177,7 +177,7 @@ Afin de garder un certain fair-play, un nombre maximum de crimine ls et de polic
 ### Effectifs maximums autorisés par braquage
 
 | Braquage | Criminels | Policiers | Unité de patrouille | Otage(s) |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Dépanneur | 2 | 4 | 2 | Non requis |
 | Bijouterie | 6 | 8 | 4 |1 |
 | Braquage Galerie d'art | 6 | 8 | 4 | 1 |
