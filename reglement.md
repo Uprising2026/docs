@@ -362,7 +362,6 @@ L'administration devra ensuite prendre le joueur visé en soutien afin de lui ex
 | --- | --- | --- | --- | --- | --- | --- |
 | À venir | À venir | À venir | À venir | À venir | À venir | À venir |
 
-Note: Nous étudions la possibilité de jailrp.
 
 ### 18.1
 
