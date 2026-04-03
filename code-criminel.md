@@ -9,11 +9,6 @@ Le code criminel regroupe les regles legales appliquees en ville : armes, identi
 Un citoyen détenant un permis de port d'armes (PPA) est autorisé à posséder et avoir sur lui les armes suivantes :
 
 - Pistolet SNS
-- Pistolet Léger
-- Pistolet Vintage
-- Pistolet de combat
-- Pistolet Lourd
-- Pistolet .50
 
 ### 1.2
 
