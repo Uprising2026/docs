@@ -360,7 +360,7 @@ L'administration devra ensuite prendre le joueur visé en soutien afin de lui ex
 
 | 1ère sanction | 2ème sanction | 3ème sanction | 4ème sanction | 5ème sanction | 6ème sanction | 7ème sanction |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6 heures | 12 heures | 1 jour | 1 jour | 2 jours | 3 jours | 1 semaine |
+| 6 heures | 12 heures | 1 jour | 2 jour | 3 jours | 1 semaine | 2 semaine |
 
 
 ### 18.1
