@@ -156,6 +156,10 @@ Les raids de QG doivent être espacés d'au moins deux heures entre chaque attaq
 
 Il est interdit de monter sur un toit dans le but d'ouvrir le feu sur un individu. 
 
+### 5.14
+
+Lors d'une action de gang planifié, par exemple une attaque, une extorsion, une prise de territoire, vous devez absolument être en tenu de gang. Cette règle ne s'applique pas lors d'un braquage. 
+
 ## 06. Corruption
 
 ### 6.1
@@ -312,7 +316,7 @@ Votre vie compte. Vous devez agir comme si votre personnage n'en avait qu'une se
 
 ### Propos ou comportements inappropriés
 
-Le racisme, la misogynie, l'homophobie, la pédophilie et les incitations au suicide sont totalement interdits.
+Parler à un mort, le racisme, la misogynie, l'homophobie, la pédophilie et les incitations au suicide sont totalement interdits.
 
 ### Retour sur scène
 
