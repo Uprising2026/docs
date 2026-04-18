@@ -360,17 +360,152 @@ L'administration devra ensuite prendre le joueur visé en soutien afin de lui ex
 
 ## 18. Sanctions
 
-### Échelle indicative des sanctions
+Uprising étant un serveur en free access, la charte de sanctions ci-dessous vise à garantir la clarté, la proportionnalité et la prévisibilité des décisions prises par l'administration. Chaque infraction est classée selon sa gravité, et la récidive est évaluée dans le temps.
 
-| 1ère sanction | 2ème sanction | 3ème sanction | 4ème sanction | 5ème sanction | 6ème sanction | 7ème sanction |
-| --- | --- | --- | --- | --- | --- | --- |
-| 6 heures | 12 heures | 1 jour | 2 jour | 3 jours | 1 semaine | 2 semaine |
+### 18.1 Principes directeurs
 
+- **Clarté** : chaque sanction doit être compréhensible, justifiée et communiquée au joueur concerné.
+- **Proportionnalité** : l'intention, le contexte, l'impact sur la scène et l'historique du joueur sont pris en compte.
+- **Réhabilitation** : pour les fautes mineures, la pédagogie est priorisée afin de permettre au joueur de corriger son comportement.
+- **Fermeté** : les fautes critiques entraînent une exclusion immédiate et sans appel.
 
-### 18.1
+### 18.2 Classification des infractions
 
-L'administration se réserve le droit de réviser le délai d'une sanction à tout moment selon le contexte et la gravité des faits.
+Les infractions sont regroupées en quatre catégories selon leur gravité.
 
-### 18.2
+#### Catégorie A — Infractions mineures
 
-Si vous souhaitez qu'une scène soit modérée, vous devez impérativement la signaler. Sans signalement, l'administration considérera que la scène a été acceptée et n'interviendra pas, sauf en cas de faute grave.
+Manquements ponctuels au RP, sans impact majeur sur la scène ou sur les autres joueurs.
+
+- Langage HRP ponctuel en pleine scène
+- Manquement léger au RP véhicule (petit accrochage non joué)
+- Oubli d'un tir de sommation non intentionnel
+- Non-respect de la règle 4.10 (hélicoptères)
+- Retour sur scène non intentionnel et rapidement corrigé
+
+#### Catégorie B — Infractions modérées
+
+Manquements clairs aux règles RP qui nuisent à la qualité d'une scène.
+
+- No Fear (règle 4.1)
+- No Pain
+- Freeloot (règle 5.1)
+- Derby de démolition (règle 11.2)
+- Intervention sur une scène qui ne vous concerne pas (règle 4.9)
+- Non-respect des effectifs maximums en braquage (règle 7.1)
+- Braquage à moto (règle 7.2)
+- Déplacement d'un corps pour empêcher les soins (règle 12.1)
+- Communication en coma (règle 12.2)
+
+#### Catégorie C — Infractions graves
+
+Fautes majeures portant atteinte à l'intégrité du RP ou à un autre joueur.
+
+- Freekill (lexique)
+- Metagaming avéré
+- Powergaming majeur
+- Tir à vue hors zone autorisée (règle 5.8)
+- Drive-by (règle 5.9)
+- Tir depuis un toit (règle 5.13)
+- Corruption (section 6)
+- No life matter lors d'un raid de QG (règle 9.1)
+- Dépassement de la limite de douze joueurs sur scène (règle 8.1)
+- Alliances entre gangs pour contourner une limite
+- Fraude liée aux voitures importées (règle 4.5)
+- AFK sur un point chaud ou pendant un acte criminel (règle 5.11)
+- Propos inappropriés ponctuels (insultes visant le joueur derrière l'écran, propos limites)
+
+#### Catégorie D — Infractions critiques
+
+Fautes inacceptables entraînant une exclusion permanente et sans appel.
+
+- ViolRP (règle 3.5)
+- Utilisation d'un mod menu (règle 3.2)
+- Packs graphiques procurant un avantage compétitif (règle 3.3)
+- Chargeback d'un achat boutique (règle 3.1)
+- Real Money Trading et transactions d'objets en jeu contre de l'argent réel (règle 3.4)
+- Exploitation volontaire et répétée de glitchs ou de bugs
+- Propos racistes, misogynes, homophobes, pédophiles ou incitations au suicide
+- Contournement d'un ban (nouveau compte, compte d'un proche, VPN)
+- Menaces, harcèlement ou doxxing envers un joueur ou un membre du staff
+
+### 18.3 Échelle de sanctions
+
+| Récidive | Catégorie A | Catégorie B | Catégorie C | Catégorie D |
+| --- | --- | --- | --- | --- |
+| 1re | Avertissement | 12 heures | 3 jours | Ban permanent |
+| 2e | 6 heures | 1 jour | 1 semaine | — |
+| 3e | 12 heures | 3 jours | 2 semaines | — |
+| 4e | 1 jour | 1 semaine | 1 mois | — |
+| 5e | 3 jours | 2 semaines | Ban permanent | — |
+
+L'administration se réserve le droit de réviser la durée d'une sanction à tout moment selon le contexte et la gravité des faits.
+
+### 18.4 Prescription des sanctions
+
+Afin d'éviter qu'une erreur ancienne ne pèse indéfiniment sur un joueur, le compteur de récidive se réinitialise après une période sans infraction :
+
+- **Catégorie A** : 30 jours
+- **Catégorie B** : 60 jours
+- **Catégorie C** : 90 jours
+- **Catégorie D** : aucune prescription
+
+### 18.5 Cumul d'infractions
+
+Lorsque plusieurs infractions sont commises durant une même scène, la sanction retenue est celle de l'infraction la plus grave, majorée d'un palier supplémentaire dans l'échelle. En cas de cumul incluant une infraction de catégorie D, la sanction permanente s'applique immédiatement.
+
+### 18.6 Circonstances aggravantes
+
+Les circonstances suivantes peuvent entraîner une majoration de la sanction :
+
+- Récidive récente dans la même catégorie
+- Mauvaise foi manifeste ou mensonge en soutien
+- Provocation ou manque de respect envers un membre du staff
+- Ciblage d'un nouveau joueur ou d'un joueur clairement en difficulté
+- Tentative de dissimulation de preuves ou de fuite de scène
+- Entraînement d'autres joueurs dans l'infraction
+
+### 18.7 Circonstances atténuantes
+
+Les circonstances suivantes peuvent entraîner une réduction de la sanction :
+
+- Première infraction sur le serveur
+- Coopération pleine et entière en soutien
+- Auto-signalement de la faute avant intervention du staff
+- Ancienneté sans historique de sanction
+- Contexte RP ambigu ayant pu induire le joueur en erreur
+
+### 18.8 Ban probatoire
+
+Tout retour après un ban d'une semaine ou plus entraîne automatiquement une période probatoire de 14 jours. Pendant cette période, toute nouvelle infraction voit sa sanction doublée par rapport à l'échelle standard.
+
+### 18.9 Ban de personnage vs ban de compte
+
+Pour certaines infractions graves liées au RP d'un personnage précis, l'administration peut décider de supprimer uniquement le personnage fautif plutôt que de bannir le compte. Cette mesure reste exceptionnelle et s'applique notamment lorsque le joueur a démontré une bonne volonté générale mais qu'un personnage est jugé nuisible au serveur.
+
+### 18.10 Ban matériel
+
+Pour les infractions de catégorie D et pour tout contournement de ban, l'administration peut appliquer un ban IP et HWID afin d'empêcher la création d'un nouveau compte.
+
+### 18.11 Signalement et traitement
+
+- Tout signalement doit passer par un /report en jeu, complété si nécessaire d'un ticket Discord avec preuves (vidéo datée de moins de 5 minutes, capture, audio).
+- Sans signalement, l'administration considère que la scène a été acceptée et n'interviendra pas, sauf faute grave constatée directement par le staff.
+- Le délai de traitement cible est de 48 heures ouvrées.
+- Le plaignant est informé de la décision finale.
+
+### 18.12 Droit de réponse
+
+Avant toute sanction de catégorie C ou D, le joueur concerné est entendu en soutien et peut présenter sa version des faits, sauf en cas de flagrance manifeste (mod menu détecté, propos haineux enregistrés, etc.).
+
+### 18.13 Appel d'une sanction
+
+Un joueur sanctionné peut faire appel une seule fois, dans un délai de 7 jours suivant la décision, en ouvrant un ticket dédié sur le Discord. L'appel est traité par un membre de l'administration n'ayant pas participé à la décision initiale. Les sanctions de catégorie D ne sont pas susceptibles d'appel, sauf erreur d'identité manifeste.
+
+### 18.14 Transparence
+
+L'administration publie régulièrement un registre anonymisé des sanctions prononcées (motif, catégorie, durée) afin de maintenir la transparence et de permettre à la communauté de comprendre les décisions prises.
+
+### 18.15 Révision de la charte
+
+La présente charte est révisée par l'équipe d'administration à intervalles réguliers afin de s'adapter aux tendances observées sur le serveur. Toute modification est annoncée publiquement avant son entrée en vigueur.
