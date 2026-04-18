@@ -1,10 +1,10 @@
-# Reglement
+# Règlement
 
-Les regles regissent ce que vous pouvez et ne pouvez pas faire sur Uprising. Elles protegent la qualite du roleplay, la viabilité des scenes et l'equilibre general du serveur.
+Les règles régissent ce que vous pouvez et ne pouvez pas faire sur Uprising. Elles protègent la qualité du roleplay, la viabilité des scènes et l'équilibre général du serveur.
 
 > **Avertissement**
 >
-> Veuillez prendre note que le proprietaire du compte assume l'entiere responsabilite des actions entreprises par l'intermediaire de son compte, peu importe la personne qui l'utilise.
+> Veuillez prendre note que le propriétaire du compte assume l'entière responsabilité des actions entreprises par l'intermédiaire de son compte, peu importe la personne qui l'utilise.
 
 ## 01. Conditions d'admission sur le serveur
 
@@ -134,7 +134,7 @@ Il est interdit pour un policier de chercher délibérément des points de drogu
 
 ### 5.8
 
-Le tir à vue est interdit. Une scène doit toujours être priorisée, sauf dans les zones prévue à cette effet.
+Le tir à vue est interdit. Une scène doit toujours être priorisée, sauf dans les zones prévues à cet effet.
 
 ### 5.9
 
@@ -158,25 +158,25 @@ Il est interdit de monter sur un toit dans le but d'ouvrir le feu sur un individ
 
 ### 5.14
 
-Lors d'une action de gang planifié, par exemple une attaque, une extorsion, une prise de territoire, vous devez absolument être en tenu de gang. Cette règle ne s'applique pas lors d'un braquage. 
+Lors d'une action de gang planifiée, par exemple une attaque, une extorsion, une prise de territoire, vous devez absolument être en tenue de gang. Cette règle ne s'applique pas lors d'un braquage. 
 
 ## 06. Corruption
 
 ### 6.1
 
-La corruption est refusé sur le serveur.
+La corruption est refusée sur le serveur.
 
 ### Corruption refusée
 
 - Ne pas fouiller ou ne pas saisir des criminels sur une scène où la police intervient.
 - Prendre des objets dans les saisies afin de les donner ou les vendre à autrui.
-- Autre situation jugée par l'administation étant nuisible.
+- Autre situation jugée par l'administration étant nuisible.
 
 ## 07. Braquages
 
 ### 7.1
 
-Afin de garder un certain fair-play, un nombre maximum de crimine ls et de policiers a été fixé pour chaque type de braquage.
+Afin de garder un certain fair-play, un nombre maximum de criminels et de policiers a été fixé pour chaque type de braquage.
 
 ### Effectifs maximums autorisés par braquage
 
@@ -491,7 +491,7 @@ Pour les infractions de catégorie D et pour tout contournement de ban, l'admini
 
 - Tout signalement doit passer par un /report en jeu, complété si nécessaire d'un ticket Discord avec preuves (vidéo datée de moins de 5 minutes, capture, audio).
 - Sans signalement, l'administration considère que la scène a été acceptée et n'interviendra pas, sauf faute grave constatée directement par le staff.
-- Le délai de traitement cible est de 48 heures ouvrées.
+- Le délai de traitement cible est de 48 heures ouvrables.
 - Le plaignant est informé de la décision finale.
 
 ### 18.12 Droit de réponse

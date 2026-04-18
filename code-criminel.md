@@ -1,6 +1,6 @@
 # Code criminel
 
-Le code criminel regroupe les regles legales appliquees en ville : armes, identification, arrestation, fouille, mandats, poursuites, justice et cadre d'intervention des services publics.
+Le code criminel regroupe les règles légales appliquées en ville : armes, identification, arrestation, fouille, mandats, poursuites, justice et cadre d'intervention des services publics.
 
 ## 01. Les armes / accessoires
 
@@ -352,7 +352,7 @@ La justice prévoit que la personne en garde à vue doit, avant tout interrogato
 
 ### 15.3
 
-Il est requis que la personne acquiesce ses droits seulement si elle a un mauvais niveau de français.
+Il est requis que la personne récite ses droits seulement si elle a un mauvais niveau de français.
 
 ## 16. GTI : le groupe tactique d’intervention
 
@@ -491,7 +491,7 @@ Les demandes concernant le Code du travail doivent être rédigées par un avoca
 
 ### 21.1
 
-La zone aérienne de la prison fédérale et de la base militaire sont des zones de vol interdites.
+Les zones aériennes de la prison fédérale et de la base militaire sont des zones de vol interdites.
 
 ## 22. Loi sur la chasse et pêche
 
