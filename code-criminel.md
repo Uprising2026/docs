@@ -121,6 +121,10 @@ Un policier doit avertir la personne lorsqu'il procède à une fouille, sauf si 
 
 Par motifs raisonnables, on entend une probabilité fondée sur la crédibilité. Des circonstances suspectes ou une simple intuition ne suffisent pas. L'agent doit être capable d'expliquer les faits concrets sur lesquels il fonde sa conviction, et ces faits doivent être suffisants pour convaincre une personne raisonnable qu'une infraction a probablement été commise.
 
+### 4.7
+
+Un policier peut fouiller toute personne présente sur les lieux d’une fusillade si des motifs raisonnables permettent de croire qu’elle est impliquée ou détient des éléments en lien avec l’incident.
+
 ## 05. Preuves valides
 
 ### 5.1
