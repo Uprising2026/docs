@@ -1,0 +1,61 @@
+# 📢 Mise à jour du règlement — Nouvelle charte de sanctions
+
+Hey la communauté Uprising !
+
+Avec le passage du serveur en **free access**, on a entièrement revu la section **18. Sanctions** du règlement afin de la rendre plus claire, plus juste et plus prévisible pour tout le monde.
+
+## 🔹 Ce qui change
+
+**1. Classification en 4 catégories d'infractions**
+- 🟢 **Catégorie A — Mineures** : manquements ponctuels, langage HRP, petits accrochages
+- 🟡 **Catégorie B — Modérées** : No Fear, No Pain, Freeloot, Derby, intervention non concernée
+- 🟠 **Catégorie C — Graves** : Freekill, Metagaming, Powergaming, Drive-by, Corruption
+- 🔴 **Catégorie D — Critiques** : ViolRP, Mod menu, Chargeback, RMT, propos haineux, contournement de ban
+
+**2. Une grille de sanctions par catégorie et par récidive**
+Fini l'échelle unique : chaque catégorie a ses propres paliers, d'un simple avertissement jusqu'au ban permanent.
+
+**3. Prescription des sanctions**
+Ton compteur de récidive se remet à zéro après une période sans infraction :
+- 30 jours pour la Cat. A
+- 60 jours pour la Cat. B
+- 90 jours pour la Cat. C
+- Aucune prescription pour la Cat. D
+
+**4. Circonstances aggravantes et atténuantes**
+La bonne foi, l'auto-signalement et la coopération jouent en ta faveur. La mauvaise foi, la récidive récente et le ciblage d'un nouveau joueur alourdissent la sanction.
+
+**5. Ban probatoire**
+Tout retour après un ban d'une semaine ou plus entraîne **14 jours de probation** : toute nouvelle infraction est doublée.
+
+**6. Ban de personnage vs ban de compte**
+Pour certaines fautes RP graves liées à un perso précis, on peut désormais supprimer uniquement le personnage fautif sans bannir le compte.
+
+**7. Processus clarifié**
+- Signalement via `/report` en jeu + ticket Discord avec preuves
+- Délai de traitement cible : **48 h**
+- Droit de réponse en soutien avant sanction Cat. C ou D
+- **Appel unique** possible sous 7 jours, traité par un admin non impliqué
+
+**8. Transparence**
+Publication régulière d'un registre anonymisé des sanctions prononcées.
+
+## 🔹 Pourquoi ce changement ?
+
+Le free access amène plus de joueurs, plus de diversité de profils et plus de situations variées. Cette nouvelle charte nous permet de :
+- Traiter chaque cas de manière proportionnée
+- Donner une vraie chance aux joueurs qui apprennent
+- Sanctionner fermement et rapidement les comportements inacceptables
+- Rester transparents sur nos décisions
+
+## 🔹 À lire absolument
+
+📖 Le règlement complet est à jour : **section 18 du règlement**
+⚠️ Personne n'est censé ignorer le règlement — prenez 10 minutes pour le relire, surtout la nouvelle grille.
+
+## 🔹 Questions ?
+
+Ouvrez un ticket sur le Discord ou venez en discuter dans les salons prévus. On est là pour clarifier.
+
+Bon RP à toutes et à tous 🎭
+— L'équipe d'administration **Uprising**
