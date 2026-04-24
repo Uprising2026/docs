@@ -229,6 +229,10 @@ Le derby de démolition n'est pas autorisé. Percuter volontairement plusieurs f
 
 Afin de conserver des courses-poursuites intéressantes, il est admis d'utiliser la mécanique de jeu, y compris le hors route, peu importe la voiture. En revanche, en cas d'accident majeur, vous devez simuler vos blessures et accepter que la poursuite soit terminée.
 
+### 11.4
+
+Utiliser un véhicule comme arme pour tuer ou mettre dans le coma un joueur est interdit. Foncer volontairement sur une cible à pied dans le but de l'abattre sera considéré comme du carkill et sanctionné en conséquence.
+
 ## 12. Coma
 
 ### 12.1
@@ -338,6 +342,10 @@ Utiliser des termes non RP comme “je suis dans ma tête” ou “mon souper es
 
 Utiliser une arme à feu en étant à bord d'un véhicule. Cette pratique est interdite sauf exception explicitement prévue par le règlement.
 
+### Carkill
+
+Utiliser un véhicule comme arme pour tuer ou mettre dans le coma un joueur, en le percutant volontairement. Exemple : foncer sur une personne à pied pour l'abattre plutôt que d'engager un RP avec elle.
+
 ## 16. Mort RP personnelle
 
 ### 16.1
@@ -391,6 +399,7 @@ Manquements clairs aux règles RP qui nuisent à la qualité d'une scène.
 - No Pain
 - Freeloot (règle 5.1)
 - Derby de démolition (règle 11.2)
+- Carkill (règle 11.4)
 - Intervention sur une scène qui ne vous concerne pas (règle 4.9)
 - Non-respect des effectifs maximums en braquage (règle 7.1)
 - Braquage à moto (règle 7.2)
